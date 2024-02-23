@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/andrewkerslake/Desktop/Ginkou v2 Smart contracts/gibkou-mm/target/debug/build/typenum-4555598a040b71f9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/andrewkerslake/Desktop/Ginkou v2 Smart contracts/gibkou-mm/target/debug/build/typenum-4555598a040b71f9/out/op.rs

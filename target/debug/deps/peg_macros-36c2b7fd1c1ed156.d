@@ -1,0 +1,10 @@
+/Users/andrewkerslake/Desktop/Ginkou v2 Smart contracts/gibkou-mm/target/debug/deps/libpeg_macros-36c2b7fd1c1ed156.dylib: /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/lib.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/analysis.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/ast.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/grammar.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/tokens.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/translate.rs
+
+/Users/andrewkerslake/Desktop/Ginkou v2 Smart contracts/gibkou-mm/target/debug/deps/peg_macros-36c2b7fd1c1ed156.d: /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/lib.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/analysis.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/ast.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/grammar.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/tokens.rs /Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/translate.rs
+
+/Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/lib.rs:
+/Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/analysis.rs:
+/Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/ast.rs:
+/Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/grammar.rs:
+/Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/tokens.rs:
+/Users/andrewkerslake/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.7.0/translate.rs:
